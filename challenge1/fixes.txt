@@ -1,0 +1,24 @@
+index.html
+	ng-app needs equals sign after
+		eye-balled it after noticed basic things not work after loading index.html
+	2nd script's opening tag wasn't closed > sign
+		linter
+
+app.js
+	extra })
+		linter
+	needed to replace ) with , after each state pointer
+		linter
+	needed to close .config with }) 
+		linter
+	settingsCtrl needed to be camel-cased
+		eye-balled
+	ui.router instead of ui-router
+		saw error in browser's console so checked script tag and spelling in app.js
+
+productsCtrl.js
+	needed closing curly bracket
+		linter
+	inject productService
+		console.log threw error
+	

@@ -1,0 +1,15 @@
+index.html
+	ui-sref for productS misspelled...needed an S
+		console throwing errors, couldn't get data to show, compared with challenge #1
+
+app.js
+	each of the html files was misspelled
+		links not working on html page, so inspected routes
+
+productsCtrl.js
+	shoeData misspelled
+		saw data wasn't loading, so inspected spelling
+
+productService.js
+	replaced var with this.
+		noticed data wasn't showing up. Compared with challenge #1's productService.js

@@ -1,0 +1,3 @@
+code.js
+	commas in weird spots
+	replaced >=0 (infinite) with -- so it worked backwards
